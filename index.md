@@ -1,91 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Erasmo Soares's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Erasmo Soares
+Generalist Software Enginneer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">erasmosaraujo@gmail.com</a>
+| <a href="https://sourcerer.io/erasmosoares">My sourcerer profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Analyst Programmer at COFOMO Quebec
 
-### Specialized in
+### Knowledge
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Angular, Parallel Programing, Xamarin Forms, C# (Windows Forms, Visual Studio .Net, .Net Framework v4.5, Rest services, Windows, GitLab, Git, Visual Code, CI/CD, Oracle Forms, Oracle Reports, PLSQL, SQL, Oracle 10g, 11g, Java EE, Adobe Flex, Jasper Reports, TDD, Azure
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Software Architecture, Clean Architecture, Clean Code. 
+
+ASP.NET Core, React Native, Ionic, Electron, Node, Python, C++.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2019`
+__CESAR School, Brazil.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- M.Sc in Software Engineering 
 
-- Sizar
+`2007 - 2011`
+__Faculdade Santa Maria, Brazil__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- B.Sc in Computer Information Systems
 
-- Fellow
+`2010`
+__Pacific Gateway International College, Canada__
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Business
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019 - Present`
+__Analyst Programmer__, COFOMO, Quebec
 
 
+`2010 - 2019`
+__Software Enginner__, CESAR, Brazil
+
+
+`2008 - 2010`
+__Software Developer__, MV, Brazil
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2020 -->
 
 
