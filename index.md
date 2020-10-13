@@ -3,7 +3,7 @@ layout: cv
 title: Erasmo Soares's CV
 ---
 # Erasmo Soares
-Generalist Software Enginneer
+Generalist Software Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">erasmosaraujo@gmail.com</a>
